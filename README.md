@@ -1,1 +1,1 @@
-# AeroLinea-ReadNative_Practica03-Plataformas-Emergentes
+# AeroLinea-ReactNative_Practica03-Plataformas-Emergentes
